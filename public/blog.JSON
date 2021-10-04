@@ -1,0 +1,38 @@
+[
+    {
+        "language": "English",
+        "description": "The English language is an Indo-European language in the West Germanic language group. Modern English is widely considered to be the lingua franca of the world and is the standard language in a wide variety of fields, including computer coding, international business, and higher education."
+    },
+    {
+        "language": "Bangla",
+        "description": "Bengali, also known by its endonym Bangla, is an Indo-Aryan language and is the lingua franca of the Bengal region of the Indian subcontinent. It is the official and most widely spoken language of Bangladesh and the second most widely spoken of the 22 scheduled languages of India, after Hindi."
+    },
+    {
+        "language": "Hindi",
+        "description": "Hindi, or more precisely Modern Standard Hindi, is an Indo-Aryan language spoken chiefly in North India. Hindi has been described as a standardised and Sanskritised register of the Hindustani language, which itself is based primarily on the Khariboli dialect of Delhi and neighbouring areas of Northern India."
+    },
+    {
+        "language": "Chinese",
+        "description": "Chinese is a group of languages that form the Sinitic branch of the Sino-Tibetan languages, spoken by the ethnic Han Chinese majority and many minority ethnic groups in Greater China. About 1.3 billion people speak a variety of Chinese as their first language."
+    },
+    {
+        "language": "Korean",
+        "description": "Korean is an East Asian language spoken by about 77 million people, mainly Korean, as of 2010. It is the official and national language of both North Korea and South Korea, with different standardized official forms used in each country. "
+    },
+    {
+        "language": "Tamil",
+        "description": "Tamil is a Dravidian language natively spoken by the Tamil people of South Asia. Tamil is an official language of the sovereign nations of Sri Lanka and Singapore, the Indian state of Tamil Nadu, and the Union Territory of Puducherry."
+    },
+    {
+        "language": "Urdu",
+        "description": "Urdu is an Indo-Aryan language spoken chiefly in South Asia. It is the official national language and lingua franca of Pakistan."
+    },
+    {
+        "language": "Arabic",
+        "description": "Arabic is a Semitic language that first emerged in the 1st to 4th centuries CE. It is now the lingua franca of the Arab world."
+    },
+    {
+        "language": "Spanish",
+        "description": "Spanish is a Romance language that originated in the Iberian Peninsula of Europe. Today, it is a global language with nearly 500 million native speakers, mainly in the Americas and Spain."
+    }
+]

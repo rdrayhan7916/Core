@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "courseName": "Learn to Arabic esay way",
+        "img": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2019/12/63652739575886387531.jpg?resize=827%2C375&ssl=1",
+        "price": 499,
+        "author": "Muhammod"
+    },
+    {
+        "id": 2,
+        "courseName": "Learn to Spanish esay way",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkxKcDeaEh3SjIjfdh5HUatujrVWPDr_yaVw&usqp=CAU",
+        "price": 489,
+        "author": "Minhaz"
+    },
+    {
+        "id": 3,
+        "courseName": "Learn to Korean esay way",
+        "img": "https://i0.wp.com/www.koreanlanguageguide.com/wp-content/uploads/2016/12/Confused-where-to-learn-korean-languge-751x500.jpg?resize=665%2C443",
+        "price": 399,
+        "author": "Hasan"
+    }
+]

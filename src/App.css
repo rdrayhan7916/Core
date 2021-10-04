@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-image:url(https://media.istockphoto.com/photos/young-man-reading-a-book-hand-close-up-picture-id1165926191?k=20&m=1165926191&s=612x612&w=0&h=TIj9wLCLqIahT-AQAmKCoZze5CPrjBI3S_hVVGhfyGQ=);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
 }
 
 .App-logo {

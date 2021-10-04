@@ -1,0 +1,13 @@
+
+.card{
+    background-color: honeydew;
+    margin: 20px;
+}
+.btn-regular{
+    background-color: goldenrod;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
